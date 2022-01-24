@@ -13,8 +13,8 @@ Table: fb_friend_requests
 fb_friend_requests
 user_id_sender  		varchar
 user_id_receiver		varchar
-date 					datetime
-action					varchar
+date 					      datetime
+action				    	varchar
 
 */
 
