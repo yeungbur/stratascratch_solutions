@@ -11,10 +11,10 @@ Assume that each friend request starts by a user sending (i.e., user_id_sender) 
 Table: fb_friend_requests
 
 fb_friend_requests
-user_id_sender  		varchar
-user_id_receiver		varchar
-date 					      datetime
-action				    	varchar
+user_id_sender  varchar
+user_id_receiver  varchar
+date  datetime
+action  varchar
 
 */
 
