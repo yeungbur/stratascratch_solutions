@@ -24,7 +24,7 @@ FROM amazon_transactions),
 B AS (
 SELECT user_id, DATEDIFF(created_at, previous_at) AS days_between
 FROM A)
-w
+
 SELECT DISTINCT user_id
 FROM B
 WHERE days_between <= 7;
