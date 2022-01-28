@@ -24,6 +24,29 @@ downloads int
 
 */
 
+/* Solution 1 - MySQL */
+
+WITH A AS (
+SELECT a.date, a.user_id, a.downloads, b.user_id AS b_user_id, b.acc_id AS b_acc_id, c.acc_id, c.paying_customer
+FROM ms_download_facts a
+JOIN ms_user_dimension b ON a.user_id = b.user_id
+JOIN ms_acc_dimension c ON b.acc_id = c.acc_id
+ORDER BY 1),
+
+B AS (
+SELECT date,
+SUM(CASE WHEN paying_customer = 'no' THEN downloads END) AS dl_np,
+SUM(CASE WHEN paying_customer = 'yes' THEN downloads END) AS dl_p
+FROM A
+GROUP BY date)
+
+SELECT *
+FROM B
+WHERE dl_np > dl_p
+ORDER BY date;
+
+/* Solution 2 - PostgreSQL */
+
 WITH A AS (
 SELECT *
 FROM ms_download_facts a
