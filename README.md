@@ -6,8 +6,8 @@ https://platform.stratascratch.com/coding
 
 | ID | Level | Title | My Solution |
 | --- | --- | --- | --- |
-| [514](https://platform.stratascratch.com/coding/514-marketing-campaign-success-advanced?) | Hard | Marketing Campaign Success | [SQL](hard/514_Marketing_Campaign_Success)
-| [9622](https://platform.stratascratch.com/coding/9622-number-of-bathrooms-and-bedrooms?) | Easy | Number Of Bathrooms And Bedrooms | [SQL](easy/9622_Number_Of_Bathrooms_And_Bedrooms)
+| [514](https://platform.stratascratch.com/coding/514-marketing-campaign-success-advanced?) | Hard | Marketing Campaign Success | [SQL](hard/514_Marketing_Campaign_Success.sql)
+| [9622](https://platform.stratascratch.com/coding/9622-number-of-bathrooms-and-bedrooms?) | Easy | Number Of Bathrooms And Bedrooms | [SQL](easy/9622_Number_Of_Bathrooms_And_Bedrooms.sql)
 | [9632](https://platform.stratascratch.com/coding/9632-host-popularity-rental-prices?) | Hard | Host Popularity Rental Prices | [SQL](hard/9632_Host_Popularity_Rental_Prices.sql)
 | [9891](https://platform.stratascratch.com/coding/9891-customer-details?) | Easy | Finding Updated Records | [SQL](easy/9891_Finding_Updated_Records.sql)
 | [9913](https://platform.stratascratch.com/coding/9913-order-details?) | Medium | Order Details | [SQL](medium/9913_Order_Details.sql)
