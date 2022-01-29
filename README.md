@@ -2,6 +2,6 @@
 
 https://platform.stratascratch.com/coding
 
-| Problem ID | Problem Title | My Solution |
+| ID | Level | Problem Title | My Solution |
 | --- | --- | --- |
-| 123 | ABC | ABC |
+| 9917 | Easy | Average Salaries | [9917.sql](https://github.com/yeungbur/stratascratch_solutions/blob/main/easy/9917_Average_Salaries.sql) |
