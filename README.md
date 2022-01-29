@@ -1,5 +1,7 @@
 # stratascratch_solutions
 
+A place to store my SQL solutions to practice problems from StrataScratch!
+
 https://platform.stratascratch.com/coding
 
 | ID | Level | Problem Title | My Solution |
