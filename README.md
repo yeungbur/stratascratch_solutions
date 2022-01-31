@@ -23,6 +23,7 @@ https://platform.stratascratch.com/coding
 | [9913](https://platform.stratascratch.com/coding/9913-order-details?) | Medium | Order Details | [SQL](medium/9913_Order_Details.sql)
 | [9915](https://platform.stratascratch.com/coding/9915-highest-cost-orders?) | Hard | Highest Cost Orders | [SQL](hard/9915_Highest_Cost_Orders.sql) |
 | [9917](https://platform.stratascratch.com/coding/9917-average-salaries?) | Easy | Average Salaries | [SQL](easy/9917_Average_Salaries.sql)
+| [9942](https://platform.stratascratch.com/coding/9942-largest-olympics?) | Medium | Largest Olympics | [SQL](medium/9942_Largest_Olympics.sql)
 | [9991](https://platform.stratascratch.com/coding/9991-top-ranked-songs?) | Medium | Top Ranked Songs | [SQL](medium/9991_Top_Ranked_Songs.sql)
 | [10046](https://platform.stratascratch.com/coding/10046-top-5-states-with-5-star-businesses?) | Hard | Top 5 States With 5 Star Businesses | [SQL](hard/10046_Top_5_States_With_5_Star_Businesses.sql)
 | [10048](https://platform.stratascratch.com/coding/10048-top-businesses-with-most-reviews?) | Medium | Top Businesses With Most Reviews | [SQL](medium/10048_Top_Businesses_With_Most_Reviews.sql)
