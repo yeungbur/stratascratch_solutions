@@ -1,6 +1,10 @@
 # stratascratch_solutions
 
+My Profile: https://platform.stratascratch.com/user/yeungbur
+
 A place to store my SQL solutions to practice problems from StrataScratch!
+
+## Table of Contents
 
 https://platform.stratascratch.com/coding
 
