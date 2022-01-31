@@ -25,6 +25,7 @@ https://platform.stratascratch.com/coding
 | [10060](https://platform.stratascratch.com/coding/10060-top-cool-votes) | Medium | Top Cool Votes | [SQL](medium/10060_Top_Cool_Votes.sql)
 | [10061](https://platform.stratascratch.com/coding/10061-popularity-of-hack?) | Easy | Popularity of Hack | [SQL](easy/10061_Popularity_of_Hack.sql)
 | [10064](https://platform.stratascratch.com/coding/10064-highest-energy-consumption?) | Medium | Highest Energy Consumption | [SQL](medium/10064_Highest_Energy_Consumption.sql)
+| [10156](https://platform.stratascratch.com/coding/10156-number-of-units-per-nationality?) | Medium | Number Of Units Per Nationality | [SQL](medium/10156_Number_Of_Units_Per_Nationality.sql)
 | [10284](https://platform.stratascratch.com/coding/10284-popularity-percentage?) | Hard | Popularity Percentage | [SQL](hard/10284_Popularity_Percentage.sql)
 | [10285](https://platform.stratascratch.com/coding/10285-acceptance-rate-by-date?) | Medium | Acceptance Rate By Date | [SQL](medium/10285_Acceptance_Rate_By_Date.sql)
 | [10299](https://platform.stratascratch.com/coding/10299-finding-updated-records?) | Easy | Finding Updated Records | [SQL](easy/10299_Finding_Updated_Records.sql)
