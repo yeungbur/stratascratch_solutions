@@ -9,6 +9,7 @@ https://platform.stratascratch.com/coding
 | [514](https://platform.stratascratch.com/coding/514-marketing-campaign-success-advanced?) | Hard | Marketing Campaign Success | [SQL](hard/514_Marketing_Campaign_Success.sql)
 | [9622](https://platform.stratascratch.com/coding/9622-number-of-bathrooms-and-bedrooms?) | Easy | Number Of Bathrooms And Bedrooms | [SQL](easy/9622_Number_Of_Bathrooms_And_Bedrooms.sql)
 | [9632](https://platform.stratascratch.com/coding/9632-host-popularity-rental-prices?) | Hard | Host Popularity Rental Prices | [SQL](hard/9632_Host_Popularity_Rental_Prices.sql)
+| [9650](https://platform.stratascratch.com/coding/9650-find-the-top-10-ranked-songs-in-2010?) | Medium | Find the top 10 ranked songs in 2010 | [SQL](medium/9650_Find_the_top_10_ranked_songs_in_2010.sql)
 | [9653](https://platform.stratascratch.com/coding/9653-count-the-number-of-user-events-performed-by-macbookpro-users?) | Medium | Count the number of user events performed by MacBookPro users | [SQL](medium/9653_Count_the_number_of_user_events_performed_by_MacBookPro_users.sql)
 | [9680](https://platform.stratascratch.com/coding/9680-most-profitable-companies?) | Medium | Most Profitable Companies | [SQL](medium/9680_Most_Profitable_Companies.sql)
 | [9726](https://platform.stratascratch.com/coding/9726-classify-business-type?) | Medium | Classify Business Type | [SQL](medium/9726_Classify_Business_Type.sql)
