@@ -22,6 +22,7 @@ https://platform.stratascratch.com/coding
 | [9915](https://platform.stratascratch.com/coding/9915-highest-cost-orders?) | Hard | Highest Cost Orders | [SQL](hard/9915_Highest_Cost_Orders.sql) |
 | [9917](https://platform.stratascratch.com/coding/9917-average-salaries?) | Easy | Average Salaries | [SQL](easy/9917_Average_Salaries.sql)
 | [10046](https://platform.stratascratch.com/coding/10046-top-5-states-with-5-star-businesses?) | Hard | Top 5 States With 5 Star Businesses | [SQL](hard/10046_Top_5_States_With_5_Star_Businesses.sql)
+| [10048](https://platform.stratascratch.com/coding/10048-top-businesses-with-most-reviews?) | Medium | Top Businesses With Most Reviews | [SQL](medium/10048_Top_Businesses_With_Most_Reviews.sql)
 | [10049](https://platform.stratascratch.com/coding/10049-reviews-of-categories?) | Medium | Reviews of Categories | [SQL](medium/10049_Review_of_Categories.sql)
 | [10060](https://platform.stratascratch.com/coding/10060-top-cool-votes) | Medium | Top Cool Votes | [SQL](medium/10060_Top_Cool_Votes.sql)
 | [10061](https://platform.stratascratch.com/coding/10061-popularity-of-hack?) | Easy | Popularity of Hack | [SQL](easy/10061_Popularity_of_Hack.sql)
