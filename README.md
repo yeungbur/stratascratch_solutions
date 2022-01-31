@@ -9,6 +9,7 @@ https://platform.stratascratch.com/coding
 | [514](https://platform.stratascratch.com/coding/514-marketing-campaign-success-advanced?) | Hard | Marketing Campaign Success | [SQL](hard/514_Marketing_Campaign_Success.sql)
 | [9622](https://platform.stratascratch.com/coding/9622-number-of-bathrooms-and-bedrooms?) | Easy | Number Of Bathrooms And Bedrooms | [SQL](easy/9622_Number_Of_Bathrooms_And_Bedrooms.sql)
 | [9632](https://platform.stratascratch.com/coding/9632-host-popularity-rental-prices?) | Hard | Host Popularity Rental Prices | [SQL](hard/9632_Host_Popularity_Rental_Prices.sql)
+| [9680](https://platform.stratascratch.com/coding/9680-most-profitable-companies?) | Medium | Most Profitable Companies | [SQL](medium/9680_Most_Profitable_Companies.sql)
 | [9726](https://platform.stratascratch.com/coding/9726-classify-business-type?) | Medium | Classify Business Type | [SQL](medium/9726_Classify_Business_Type.sql)
 | [9728](https://platform.stratascratch.com/coding/9728-inspections-that-resulted-in-violations?) | Medium | Number of violations | [SQL](medium/9728_Number_of_violations.sql)
 | [9781](https://platform.stratascratch.com/coding/9781-find-the-rate-of-processed-tickets-for-each-type?) | Medium | Find the rate of processed tickets for each type | [SQL](medium/9781_Find_the_rate_of_processed_tickets_for_each_type.sql)
