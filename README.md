@@ -11,6 +11,7 @@ https://platform.stratascratch.com/coding
 | [9632](https://platform.stratascratch.com/coding/9632-host-popularity-rental-prices?) | Hard | Host Popularity Rental Prices | [SQL](hard/9632_Host_Popularity_Rental_Prices.sql)
 | [9726](https://platform.stratascratch.com/coding/9726-classify-business-type?) | Medium | Classify Business Type | [SQL](medium/9726_Classify_Business_Type.sql)
 | [9728](https://platform.stratascratch.com/coding/9728-inspections-that-resulted-in-violations?) | Medium | Number of violations | [SQL](medium/9728_Number_of_violations.sql)
+| [9781](https://platform.stratascratch.com/coding/9781-find-the-rate-of-processed-tickets-for-each-type?) | Medium | Find the rate of processed tickets for each type | [SQL](medium/9781_Find_the_rate_of_processed_tickets_for_each_type.sql)
 | [9782](https://platform.stratascratch.com/coding/9782-customer-revenue-in-march?) | Medium | Customer Revenue In March | [SQL](medium/9782_Customer_Revenue_In_March.sql)
 | [9891](https://platform.stratascratch.com/coding/9891-customer-details?) | Easy | Finding Updated Records | [SQL](easy/9891_Finding_Updated_Records.sql)
 | [9894](https://platform.stratascratch.com/coding/9894-employee-and-manager-salaries?) | Medium | Employee and Manager Salaries | [SQL](medium/9894_Employee_and_Manager_Salaries.sql)
