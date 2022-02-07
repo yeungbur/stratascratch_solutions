@@ -38,6 +38,7 @@ https://platform.stratascratch.com/coding
 | [10077](https://platform.stratascratch.com/coding/10077-income-by-title-and-gender?) | Medium | Income By Title and Gender | [SQL](medium/10077_Income_By_Title_and_Gender.sql)
 | [10078](https://platform.stratascratch.com/coding/10078-find-matching-hosts-and-guests-in-a-way-that-they-are-both-of-the-same-gender-and-nationality?) | Medium | Find matching hosts and guests | [SQL](medium/10078_Find_matching_hosts_and_guests.sql)
 | [10156](https://platform.stratascratch.com/coding/10156-number-of-units-per-nationality?) | Medium | Number Of Units Per Nationality | [SQL](medium/10156_Number_Of_Units_Per_Nationality.sql)
+| [10159](https://platform.stratascratch.com/coding/10159-ranking-most-active-guests?) | Medium | Ranking Most Active Guests | [SQL](medium/10159_Ranking_Most_Active_Guests.sql)
 | [10284](https://platform.stratascratch.com/coding/10284-popularity-percentage?) | Hard | Popularity Percentage | [SQL](hard/10284_Popularity_Percentage.sql)
 | [10285](https://platform.stratascratch.com/coding/10285-acceptance-rate-by-date?) | Medium | Acceptance Rate By Date | [SQL](medium/10285_Acceptance_Rate_By_Date.sql)
 | [10299](https://platform.stratascratch.com/coding/10299-finding-updated-records?) | Easy | Finding Updated Records | [SQL](easy/10299_Finding_Updated_Records.sql)
