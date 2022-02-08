@@ -11,6 +11,7 @@ https://platform.stratascratch.com/coding
 | ID | Level | Title | My Solution |
 | --- | --- | --- | --- |
 | [514](https://platform.stratascratch.com/coding/514-marketing-campaign-success-advanced?) | Hard | Marketing Campaign Success | [SQL](hard/514_Marketing_Campaign_Success.sql)
+| [2059](https://platform.stratascratch.com/coding/2059-player-with-longest-streak?) | Hard | Player with Longest Streak | [SQL](hard/2059_Player_with_Longest_Streak.sql)
 | [9622](https://platform.stratascratch.com/coding/9622-number-of-bathrooms-and-bedrooms?) | Easy | Number Of Bathrooms And Bedrooms | [SQL](easy/9622_Number_Of_Bathrooms_And_Bedrooms.sql)
 | [9632](https://platform.stratascratch.com/coding/9632-host-popularity-rental-prices?) | Hard | Host Popularity Rental Prices | [SQL](hard/9632_Host_Popularity_Rental_Prices.sql)
 | [9650](https://platform.stratascratch.com/coding/9650-find-the-top-10-ranked-songs-in-2010?) | Medium | Find the top 10 ranked songs in 2010 | [SQL](medium/9650_Find_the_top_10_ranked_songs_in_2010.sql)
