@@ -40,6 +40,7 @@ https://platform.stratascratch.com/coding
 | [10073](https://platform.stratascratch.com/coding/10073-favorite-host-nationality?python) | Medium | Favorite Host Nationality | [SQL](medium/10073_Favorite_Host_Nationality.sql)
 | [10077](https://platform.stratascratch.com/coding/10077-income-by-title-and-gender?) | Medium | Income By Title and Gender | [SQL](medium/10077_Income_By_Title_and_Gender.sql)
 | [10078](https://platform.stratascratch.com/coding/10078-find-matching-hosts-and-guests-in-a-way-that-they-are-both-of-the-same-gender-and-nationality?) | Medium | Find matching hosts and guests | [SQL](medium/10078_Find_matching_hosts_and_guests.sql)
+| [10087](https://platform.stratascratch.com/coding/10087-find-all-posts-which-were-reacted-to-with-a-heart?) | Easy | Find all posts which were reacted to with a heart | [SQL](easy/10087_Find_all_posts_which_were_reacted_to_with_a_heart.sql)
 | [10156](https://platform.stratascratch.com/coding/10156-number-of-units-per-nationality?) | Medium | Number Of Units Per Nationality | [SQL](medium/10156_Number_Of_Units_Per_Nationality.sql)
 | [10159](https://platform.stratascratch.com/coding/10159-ranking-most-active-guests?) | Medium | Ranking Most Active Guests | [SQL](medium/10159_Ranking_Most_Active_Guests.sql)
 | [10284](https://platform.stratascratch.com/coding/10284-popularity-percentage?) | Hard | Popularity Percentage | [SQL](hard/10284_Popularity_Percentage.sql)
