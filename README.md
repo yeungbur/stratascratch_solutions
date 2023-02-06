@@ -52,6 +52,7 @@ https://platform.stratascratch.com/coding
 | [10322](https://platform.stratascratch.com/coding/10322-finding-user-purchases?) | Finding User Purchases | [SQL](medium/10322_Finding_User_Purchases.sql)
 | [10352](https://platform.stratascratch.com/coding/10352-users-by-avg-session-time?) | Users By Avg Session time | [SQL](medium/10352_Users_By_Avg_Session_time.sql)
 | [10353](https://platform.stratascratch.com/coding/10353-workers-with-the-highest-salaries) | Workers With The Highest Salaries | [SQL](medium/10353_Workers_With_The_Highest_Salaries.sql)
+| [10354](https://platform.stratascratch.com/coding/10354-most-profitable-companies?) | Most Profitable Companies | [SQL](medium/10354_Most_Profitable_Companies.sql)
 
 ### Difficulty: Easy
 
