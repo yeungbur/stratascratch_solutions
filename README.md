@@ -58,12 +58,13 @@ https://platform.stratascratch.com/coding
 
 | ID | Title | My Solution |
 | --- | --- | --- |
-| [9622](https://platform.stratascratch.com/coding/9622-number-of-bathrooms-and-bedrooms?) | Easy | Number Of Bathrooms And Bedrooms | [SQL](easy/9622_Number_Of_Bathrooms_And_Bedrooms.sql)
-| [9891](https://platform.stratascratch.com/coding/9891-customer-details?) | Easy | Finding Updated Records | [SQL](easy/9891_Finding_Updated_Records.sql)
-| [9917](https://platform.stratascratch.com/coding/9917-average-salaries?) | Easy | Average Salaries | [SQL](easy/9917_Average_Salaries.sql)
-| [9963](https://platform.stratascratch.com/coding/9663-find-the-most-profitable-company-in-the-financial-sector-of-the-entire-world-along-with-its-continent?) | Easy | Most Profitable with Continent | [SQL](easy/9663_Most_Profitable_with_Continent.sql)
-| [10061](https://platform.stratascratch.com/coding/10061-popularity-of-hack?) | Easy | Popularity of Hack | [SQL](easy/10061_Popularity_of_Hack.sql)
-| [10087](https://platform.stratascratch.com/coding/10087-find-all-posts-which-were-reacted-to-with-a-heart?) | Easy | Find all posts which were reacted to with a heart | [SQL](easy/10087_Find_all_posts_which_were_reacted_to_with_a_heart.sql)
-| [10176](https://platform.stratascratch.com/coding/10176-bikes-last-used?) | Easy | Bikes Last Used | [SQL](easy/10176_Bikes_Last_Used.sql)
-| [10299](https://platform.stratascratch.com/coding/10299-finding-updated-records?) | Easy | Finding Updated Records | [SQL](easy/10299_Finding_Updated_Records.sql)
-| [10308](https://platform.stratascratch.com/coding/10308-salaries-differences?) | Easy | Salaries Differences | [SQL](easy/10308_Salaries_Differences.sql)
+| [9622](https://platform.stratascratch.com/coding/9622-number-of-bathrooms-and-bedrooms?) | Number Of Bathrooms And Bedrooms | [SQL](easy/9622_Number_Of_Bathrooms_And_Bedrooms.sql)
+| [9891](https://platform.stratascratch.com/coding/9891-customer-details?) | Finding Updated Records | [SQL](easy/9891_Finding_Updated_Records.sql)
+| [9917](https://platform.stratascratch.com/coding/9917-average-salaries?) | Average Salaries | [SQL](easy/9917_Average_Salaries.sql)
+| [9963](https://platform.stratascratch.com/coding/9663-find-the-most-profitable-company-in-the-financial-sector-of-the-entire-world-along-with-its-continent?) | Most Profitable with Continent | [SQL](easy/9663_Most_Profitable_with_Continent.sql)
+| [10003](https://platform.stratascratch.com/coding/10003-lyft-driver-wages?) | Lyft Driver Wages | [SQL](easy/10003_Lyft_Driver_Wages.sql)
+| [10061](https://platform.stratascratch.com/coding/10061-popularity-of-hack?) | Popularity of Hack | [SQL](easy/10061_Popularity_of_Hack.sql)
+| [10087](https://platform.stratascratch.com/coding/10087-find-all-posts-which-were-reacted-to-with-a-heart?) | Find all posts which were reacted to with a heart | [SQL](easy/10087_Find_all_posts_which_were_reacted_to_with_a_heart.sql)
+| [10176](https://platform.stratascratch.com/coding/10176-bikes-last-used?) | Bikes Last Used | [SQL](easy/10176_Bikes_Last_Used.sql)
+| [10299](https://platform.stratascratch.com/coding/10299-finding-updated-records?) | Finding Updated Records | [SQL](easy/10299_Finding_Updated_Records.sql)
+| [10308](https://platform.stratascratch.com/coding/10308-salaries-differences?) | Salaries Differences | [SQL](easy/10308_Salaries_Differences.sql)
