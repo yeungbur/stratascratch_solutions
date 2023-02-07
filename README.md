@@ -15,6 +15,7 @@ https://platform.stratascratch.com/coding
 | [514](https://platform.stratascratch.com/coding/514-marketing-campaign-success-advanced?) | Marketing Campaign Success | [SQL](hard/514_Marketing_Campaign_Success.sql)
 | [2059](https://platform.stratascratch.com/coding/2059-player-with-longest-streak?) | Player with Longest Streak | [SQL](hard/2059_Player_with_Longest_Streak.sql)
 | [9632](https://platform.stratascratch.com/coding/9632-host-popularity-rental-prices?) | Host Popularity Rental Prices | [SQL](hard/9632_Host_Popularity_Rental_Prices.sql)
+| [9688](https://platform.stratascratch.com/coding/9688-churro-activity-date?) | Churro Activity Date | [SQL](easy/9688.sql)
 | [9915](https://platform.stratascratch.com/coding/9915-highest-cost-orders?) | Highest Cost Orders | [SQL](hard/9915_Highest_Cost_Orders.sql) |
 | [10046](https://platform.stratascratch.com/coding/10046-top-5-states-with-5-star-businesses?) | Top 5 States With 5 Star Businesses | [SQL](hard/10046_Top_5_States_With_5_Star_Businesses.sql)
 | [10284](https://platform.stratascratch.com/coding/10284-popularity-percentage?) | Popularity Percentage | [SQL](hard/10284_Popularity_Percentage.sql)
